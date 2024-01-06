@@ -1,0 +1,82 @@
+@import url("../public/assets/css/normalize.css");
+@import url("../public/assets/css/bootstrap.min.css");
+@import url("../public/assets/css/font-awesome-5.10.2.min.css");
+@import url("../public/assets/css/plugin/owl.carousel.min.css");
+@import url("../public/assets/css/plugin/nice-select.css");
+@import url("../public/assets/css/plugin/animate.css");
+@import url("../public/assets/css/style.css");
+@import url("../public/assets/css/responsive.css");
+
+.new_loader {
+  z-index: 1111111111111111111111;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.new_margin_top {
+  margin-top: 1rem;
+}
+
+.new_width {
+  width: 100%;
+}
+
+.new_button {
+  border: none;
+  color: #fff;
+  background-image: linear-gradient(30deg, #6008eb, #980bf7);
+  border-radius: 20px;
+  background-size: 100% auto;
+  font-family: inherit;
+  margin-left: 1rem;
+  font-size: 17px;
+  padding: 0.6em 1.5em;
+}
+
+.new_button:hover {
+  background-position: right center;
+  background-size: 200% auto;
+  -webkit-animation: pulse 2s infinite;
+  animation: pulse512 1.5s infinite;
+}
+
+@keyframes pulse512 {
+  0% {
+    box-shadow: 0 0 0 0 #05bada66;
+  }
+
+  70% {
+    box-shadow: 0 0 0 10px rgb(218 103 68 / 0%);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgb(218 103 68 / 0%);
+  }
+}
+
+/* //TYPE 2 BUTTON */
+.type_2_button {
+  font-family: PlusJakartaSans, -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Oxygen, Cantarell, Helvetica Neue, Ubuntu, sans-serif;
+  font-size: 1rem;
+  align-items: center;
+  margin-inline: 0.3rem;
+  height: 48px;
+  border-radius: 0.4rem;
+  font-weight: 600;
+  padding: 0 1.2rem;
+  color: #ddd;
+  border: none;
+  box-shadow: 0 0.5rem 1rem rgba(143, 142, 142, 0.15) !important;
+  background: #6008eb;
+}
+
+.type_2_followers {
+  font-size: 0.8rem;
+  color: #7f7f7f;
+}
+
+.type_2_button:hover {
+  background: #2b2a2a;
+}
