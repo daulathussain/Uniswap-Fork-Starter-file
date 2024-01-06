@@ -4,9 +4,9 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2024/01/uniswap-mainnet-fork-swap.jpg)
 
-Build your own Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades. It is an open source project and falls into the category of a DeFi product because it uses smart contracts to facilitate trades.
+Build your own Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades. It is an open-source project and falls into the category of a DeFi product because it uses smart contracts to facilitate trades.
 
-Resource Final Code: https://www.theblockchaincoders.com/sourceCode/build-crypto-trading-bot-dapp-for-any-networks-from-scratch
+Resource Final Code: https://www.theblockchaincoders.com/sourceCode/create-uniswap-exchange-defi-for-mainnet-and-forknet
 
 Get Pro Blockchain Developer Course: https://www.theblockchaincoders.com/pro-nft-marketplace
 
